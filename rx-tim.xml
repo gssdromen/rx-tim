@@ -4,9 +4,6 @@
       <prescription type="service" package="com.tencent.tim" class="cooperation.groupvideo.GVideoProxyService" sender="any"/>
       <prescription type="service" package="com.tencent.tim" class="cooperation.groupvideo.GVideoProxyUtilService" sender="any"/>
       <prescription type="service" package="com.tencent.tim" class="cooperation.groupvideo.GVideoSmallScreenProxyService" sender="any"/>
-      <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.emosm.web.MessengerService" sender="any"/>
-      <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.msf.service.MsfService" sender="any"/>
-      <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.msf.service.MsfTempService" sender="any"/>
       <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.pluginsdk.ipc.PluginRemoteService$Sub1" sender="any"/>
       <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.pluginsdk.ipc.PluginRemoteService$Sub2" sender="any"/>
       <prescription type="service" package="com.tencent.tim" class="com.tencent.mobileqq.activity.PreloadWebService" sender="any"/>
